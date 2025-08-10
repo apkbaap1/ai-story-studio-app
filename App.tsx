@@ -33,8 +33,8 @@ const ApiKeyWarning = () => (
                     <li>Navigate to the <strong>Environment Variables</strong> section.</li>
                     <li>Create a new variable with:</li>
                     <ul className="list-disc list-inside pl-6 mt-1 font-mono bg-gray-100 dark:bg-gray-900/50 p-2 rounded">
-                        <li><strong>Key:</strong> <code className="font-bold">OPENAI_API_KEY</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></li>
-                        <li><strong>Value:</strong> [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]</li>
+                        <li><strong>Key:</strong> <code className="font-bold">API_KEY</code></li>
+                        <li><strong>Value:</strong> [Your Google AI Studio API Key]</li>
                     </ul>
                     <li>Redeploy your application.</li>
                 </ol>
